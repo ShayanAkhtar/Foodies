@@ -1,4 +1,4 @@
-# React Native Restaurant Finder App
+# Foodies - React Native Restaurant Finder App
 
 This project is a **React Native App** built using **Expo**. It uses **Firebase Authentication** for user authentication and the **Google Maps API** to locate restaurants near the user's current location.
 
