@@ -12,9 +12,10 @@ This project is a **React Native App** built using **Expo**. It uses **Firebase 
 ## Getting Started
 
 ### Prerequisites
-- Node.js installed on your system.
-- Firebase account for authentication setup.
-- Google Maps API Key for location services.
+- [NodeJs(LTS)](https://nodejs.org/en) installed on your system.
+- [Firebase](https://console.firebase.google.com/) account for authentication setup.
+- [Google Maps API](https://console.cloud.google.com/) Key for location services.
+- [VS Code](https://code.visualstudio.com/) or any other preferred code editor or IDE installed.
 
 ### Installation
 
