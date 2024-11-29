@@ -21,8 +21,8 @@ This project is a **React Native App** built using **Expo**. It uses **Firebase 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/ShayanAkhtar/Foodies.git
+   cd Foodies
 2. Install Dependencies:
    ```bash
    npm install
