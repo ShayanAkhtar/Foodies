@@ -13,7 +13,7 @@ const HomeScreen = () => {
   const [travelPath, setTravelPath] = useState([]);
   const [placeType, setPlaceType] = useState("");
 
-  const GOOGLE_API_KEY = '';
+  const GOOGLE_API_KEY = 'AIzaSyCNlzkbIOWaelykgCbWOjkJHLkDOuV_OrA';
 
   useEffect(() => {
     let subscription;
