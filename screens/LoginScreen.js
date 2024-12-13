@@ -39,7 +39,7 @@ const LoginScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome Back!</Text>
+      <Text style={styles.title}>Welcome Foodies!</Text>
 
       <TextInput
         placeholder="Email"

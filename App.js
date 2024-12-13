@@ -15,7 +15,7 @@ const Drawer = createDrawerNavigator();
 // Custom header for Stack Navigator
 const customHeader = () => (
   <View style={styles.headerContainer}>
-    <Text style={styles.headerText}>My App</Text>
+    <Text style={styles.headerText}>Foodies</Text>
   </View>
 );
 
