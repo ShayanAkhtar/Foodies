@@ -19,11 +19,7 @@ This project is a **React Native App** built using **Expo**. It uses **Firebase 
 - [VS Code](https://code.visualstudio.com/) or any other preferred code editor or IDE installed.
 
 ### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ShayanAkhtar/Foodies.git
-   cd Foodies
+1. cd Foodies
 2. Install Dependencies:
    ```bash
    npm install
